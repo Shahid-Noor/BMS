@@ -9,7 +9,7 @@ package edu.bms.util;
 
 /**
  *
- * @author awadood
+ * @author shahid
  */
 public class Constants {
 

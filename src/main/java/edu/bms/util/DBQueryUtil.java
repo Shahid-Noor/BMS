@@ -7,7 +7,7 @@ package edu.bms.util;
 
 /**
  *
- * @author abbas
+ * @author shahid
  */
 public class DBQueryUtil {
     

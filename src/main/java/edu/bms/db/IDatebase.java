@@ -9,7 +9,7 @@ import edu.bms.entity.Account;
 
 /**
  *
- * @author abbas
+ * @author Shahid Noor
  */
 public interface IDatebase {
     

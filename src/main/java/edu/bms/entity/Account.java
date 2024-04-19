@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author abbas
+ * @author shahid
  */
 public class Account implements Serializable {
     

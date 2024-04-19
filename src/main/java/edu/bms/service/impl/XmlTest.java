@@ -31,7 +31,7 @@ import org.dom4j.io.XMLWriter;
 
 /**
  *
- * @author Shahid Noo
+ * @author shahid
  */
 public class XmlTest implements IAccountService {
     private static Logger log = LogManager.getLogger(AccountService.class);
