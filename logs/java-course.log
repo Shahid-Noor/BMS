@@ -1,0 +1,687 @@
+[ERROR] 2020-02-20 13:37:31.216 edu.bms.util.XMLHandler [69] - file not found
+java.io.FileNotFoundException: G:\workspace\netbeans\accounts.xml (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:155) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:110) ~[?:?]
+	at edu.bms.util.XMLHandler.testReadOp(XMLHandler.java:47) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:80) [classes/:?]
+[ERROR] 2020-02-20 13:40:06.855 edu.bms.util.XMLHandler [69] - file not found
+java.io.FileNotFoundException: G:\workspace\netbeans\accounts.xml (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:155) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:110) ~[?:?]
+	at edu.bms.util.XMLHandler.testReadOp(XMLHandler.java:47) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:80) [classes/:?]
+[ERROR] 2020-02-20 13:41:15.505 edu.bms.util.XMLHandler [69] - file not found
+java.io.FileNotFoundException: G:\workspace\netbeans\accounts.xml (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:155) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:110) ~[?:?]
+	at edu.bms.util.XMLHandler.testReadOp(XMLHandler.java:47) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:80) [classes/:?]
+[ERROR] 2020-02-20 13:42:26.280 edu.bms.util.XMLHandler [69] - file not found
+java.io.FileNotFoundException: G:\workspace\netbeans\accounts.xml (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:155) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:110) ~[?:?]
+	at edu.bms.util.XMLHandler.testReadOp(XMLHandler.java:47) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:80) [classes/:?]
+[ERROR] 2020-02-20 13:43:50.995 edu.bms.util.XMLHandler [69] - file not found
+java.io.FileNotFoundException: G:\workspace\netbeans\accounts.xml (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:155) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:110) ~[?:?]
+	at edu.bms.util.XMLHandler.testReadOp(XMLHandler.java:47) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:80) [classes/:?]
+[INFO ] 2020-02-20 13:49:44.934 edu.bms.util.XMLHandler [59] - accountHolderName = Shahab-U-Din
+[INFO ] 2020-02-20 13:49:44.938 edu.bms.util.XMLHandler [59] - type = Current
+[INFO ] 2020-02-20 13:49:44.938 edu.bms.util.XMLHandler [59] - initialDeposit = 2000
+[INFO ] 2020-02-20 13:49:44.939 edu.bms.util.XMLHandler [59] - cnic = 22401-5343152-1
+[INFO ] 2020-02-20 13:49:44.939 edu.bms.util.XMLHandler [59] - phoneNumber = 0334-9346079
+[INFO ] 2020-02-20 13:49:44.940 edu.bms.util.XMLHandler [59] - balance = 2000
+[INFO ] 2020-02-20 13:49:44.940 edu.bms.util.XMLHandler [59] - status = Opened
+[INFO ] 2020-02-20 13:49:44.941 edu.bms.util.XMLHandler [59] - accountHolderName = Waleed
+[INFO ] 2020-02-20 13:49:44.941 edu.bms.util.XMLHandler [59] - type = Saving
+[INFO ] 2020-02-20 13:49:44.942 edu.bms.util.XMLHandler [59] - initialDeposit = 1500
+[INFO ] 2020-02-20 13:49:44.942 edu.bms.util.XMLHandler [59] - cnic = 14301-3376146-1
+[INFO ] 2020-02-20 13:49:44.943 edu.bms.util.XMLHandler [59] - phoneNumber = 0333-3333333
+[INFO ] 2020-02-20 13:49:44.943 edu.bms.util.XMLHandler [59] - balance = 1500
+[INFO ] 2020-02-20 13:49:44.944 edu.bms.util.XMLHandler [59] - status = Closed
+[INFO ] 2020-02-20 13:49:44.945 edu.bms.util.XMLHandler [59] - accountHolderName = Ubaid
+[INFO ] 2020-02-20 13:49:44.946 edu.bms.util.XMLHandler [59] - type = Current
+[INFO ] 2020-02-20 13:49:44.946 edu.bms.util.XMLHandler [59] - initialDeposit = 1100
+[INFO ] 2020-02-20 13:49:44.947 edu.bms.util.XMLHandler [59] - cnic = 17123-9877653-6
+[INFO ] 2020-02-20 13:49:44.947 edu.bms.util.XMLHandler [59] - phoneNumber = 0388-2345678
+[INFO ] 2020-02-20 13:49:44.948 edu.bms.util.XMLHandler [59] - balance = 2000
+[INFO ] 2020-02-20 13:49:44.949 edu.bms.util.XMLHandler [59] - status = Closed
+[INFO ] 2020-02-20 13:49:44.949 edu.bms.util.XMLHandler [59] - accountHolderName = Arsh
+[INFO ] 2020-02-20 13:49:44.950 edu.bms.util.XMLHandler [59] - type = Saving
+[INFO ] 2020-02-20 13:49:44.951 edu.bms.util.XMLHandler [59] - initialDeposit = 2100
+[INFO ] 2020-02-20 13:49:44.951 edu.bms.util.XMLHandler [59] - cnic = 13142-2784356-3
+[INFO ] 2020-02-20 13:49:44.952 edu.bms.util.XMLHandler [59] - phoneNumber = 0312-7865433
+[INFO ] 2020-02-20 13:49:44.953 edu.bms.util.XMLHandler [59] - balance = 1500
+[INFO ] 2020-02-20 13:49:44.953 edu.bms.util.XMLHandler [59] - status = Active
+[INFO ] 2020-02-20 13:49:44.954 edu.bms.util.XMLHandler [59] - accountHolderName = Ali
+[INFO ] 2020-02-20 13:49:44.954 edu.bms.util.XMLHandler [59] - type = Current
+[INFO ] 2020-02-20 13:49:44.955 edu.bms.util.XMLHandler [59] - cnic = 1730113123941
+[INFO ] 2020-02-20 13:49:44.955 edu.bms.util.XMLHandler [59] - initialDeposit = 1500
+[INFO ] 2020-02-20 13:49:44.956 edu.bms.util.XMLHandler [59] - phoneNumber = 03129968572
+[INFO ] 2020-02-20 13:49:44.956 edu.bms.util.XMLHandler [59] - balance = 2000
+[INFO ] 2020-02-20 13:49:44.957 edu.bms.util.XMLHandler [59] - status = Closed
+[INFO ] 2020-02-20 13:49:44.957 edu.bms.util.XMLHandler [59] - accountHolderName = Usman
+[INFO ] 2020-02-20 13:49:44.958 edu.bms.util.XMLHandler [59] - type = Saving
+[INFO ] 2020-02-20 13:49:44.959 edu.bms.util.XMLHandler [59] - cnic = 1730145252453
+[INFO ] 2020-02-20 13:49:44.959 edu.bms.util.XMLHandler [59] - initialDeposit = 500
+[INFO ] 2020-02-20 13:49:44.960 edu.bms.util.XMLHandler [59] - phoneNumber = 030152524512
+[INFO ] 2020-02-20 13:49:44.960 edu.bms.util.XMLHandler [59] - balance = 1000
+[INFO ] 2020-02-20 13:49:44.961 edu.bms.util.XMLHandler [59] - status = Active
+[INFO ] 2020-02-20 13:49:44.961 edu.bms.util.XMLHandler [59] - accountHolderName = Shakir
+[INFO ] 2020-02-20 13:49:44.962 edu.bms.util.XMLHandler [59] - type = current
+[INFO ] 2020-02-20 13:49:44.962 edu.bms.util.XMLHandler [59] - initialDeposit = 1000
+[INFO ] 2020-02-20 13:49:44.963 edu.bms.util.XMLHandler [59] - cnic = 15603-0405805-2
+[INFO ] 2020-02-20 13:49:44.963 edu.bms.util.XMLHandler [59] - phoneNumber = 03441900988
+[INFO ] 2020-02-20 13:49:44.964 edu.bms.util.XMLHandler [59] - balance = 9000
+[INFO ] 2020-02-20 13:49:44.965 edu.bms.util.XMLHandler [59] - states = closed
+[INFO ] 2020-02-20 13:49:44.965 edu.bms.util.XMLHandler [59] - accountHolderName = Abbas
+[INFO ] 2020-02-20 13:49:44.966 edu.bms.util.XMLHandler [59] - type = Saving
+[INFO ] 2020-02-20 13:49:44.966 edu.bms.util.XMLHandler [59] - initialDeposit = 4000
+[INFO ] 2020-02-20 13:49:44.966 edu.bms.util.XMLHandler [59] - cnic = 17403-3984984-5
+[INFO ] 2020-02-20 13:49:44.967 edu.bms.util.XMLHandler [59] - phoneNumber = 
+[INFO ] 2020-02-20 13:49:44.967 edu.bms.util.XMLHandler [59] - balance = 34567
+[INFO ] 2020-02-20 13:49:44.968 edu.bms.util.XMLHandler [59] - states = closed
+[INFO ] 2020-02-20 13:49:44.970 edu.bms.util.XMLHandler [59] - accountHolderName = Raza
+[INFO ] 2020-02-20 13:49:44.971 edu.bms.util.XMLHandler [59] - type = Cuurent
+[INFO ] 2020-02-20 13:49:44.971 edu.bms.util.XMLHandler [59] - intialDeposit = 2000
+[INFO ] 2020-02-20 13:49:44.972 edu.bms.util.XMLHandler [59] - cnic = 21203-9876632-4
+[INFO ] 2020-02-20 13:49:44.972 edu.bms.util.XMLHandler [59] - phoneNumber = 0314-8765439
+[INFO ] 2020-02-20 13:49:44.973 edu.bms.util.XMLHandler [59] - balance = 5000
+[INFO ] 2020-02-20 13:49:44.973 edu.bms.util.XMLHandler [59] - status = Closed
+[INFO ] 2020-02-20 13:49:44.974 edu.bms.util.XMLHandler [59] - accountHolderName = Ahmad
+[INFO ] 2020-02-20 13:49:44.974 edu.bms.util.XMLHandler [59] - type = Saving
+[INFO ] 2020-02-20 13:49:44.975 edu.bms.util.XMLHandler [59] - intialDeposit = 3000
+[INFO ] 2020-02-20 13:49:44.975 edu.bms.util.XMLHandler [59] - cnic = 21203-9941024-5
+[INFO ] 2020-02-20 13:49:44.976 edu.bms.util.XMLHandler [59] - phoneNumber = 0313-9166493
+[INFO ] 2020-02-20 13:49:44.976 edu.bms.util.XMLHandler [59] - balance = 10000
+[INFO ] 2020-02-20 13:49:44.976 edu.bms.util.XMLHandler [59] - status = Open
+[INFO ] 2020-02-20 13:49:44.977 edu.bms.util.XMLHandler [59] - accountHolderName = "Shuja"
+[INFO ] 2020-02-20 13:49:44.977 edu.bms.util.XMLHandler [59] - cnic =  "15201-9987654-3" 
+[INFO ] 2020-02-20 13:49:44.977 edu.bms.util.XMLHandler [59] - initialDeposit =  3000
+[INFO ] 2020-02-20 13:49:44.977 edu.bms.util.XMLHandler [59] - balance =  350
+[INFO ] 2020-02-20 13:49:44.978 edu.bms.util.XMLHandler [59] - type =  "Student" 
+[INFO ] 2020-02-20 13:49:44.978 edu.bms.util.XMLHandler [59] - phoneNumber =  03450583043 
+[INFO ] 2020-02-20 13:49:44.978 edu.bms.util.XMLHandler [59] - status =  "Active" 
+[INFO ] 2020-02-20 13:49:44.979 edu.bms.util.XMLHandler [59] - accountHolderName = "Shaab" 
+[INFO ] 2020-02-20 13:49:44.979 edu.bms.util.XMLHandler [59] - cnic =  "12345678905"
+[INFO ] 2020-02-20 13:49:44.979 edu.bms.util.XMLHandler [59] - initialDeposit = 321
+[INFO ] 2020-02-20 13:49:44.980 edu.bms.util.XMLHandler [59] - balance =  1000
+[INFO ] 2020-02-20 13:49:44.980 edu.bms.util.XMLHandler [59] - type =  "Current" 
+[INFO ] 2020-02-20 13:49:44.980 edu.bms.util.XMLHandler [59] - phoneNumber =  03404536733 
+[INFO ] 2020-02-20 13:49:44.981 edu.bms.util.XMLHandler [59] - status =  "close"
+[ERROR] 2020-02-20 19:22:47.989 edu.bms.util.XMLHandler [92] - file not found
+java.io.FileNotFoundException: /home/shuja/netbeans/accounts.xml (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:155) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:110) ~[?:?]
+	at edu.bms.util.XMLHandler.testReadOp(XMLHandler.java:51) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:130) [classes/:?]
+[ERROR] 2020-02-20 19:22:48.039 edu.bms.util.XMLHandler [124] - error while writing xml
+java.io.FileNotFoundException: /home/shuja/netbeans/accounts3.xml (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:292) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:124) ~[?:?]
+	at edu.bms.util.XMLHandler.testWriteOp(XMLHandler.java:120) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:131) [classes/:?]
+[ERROR] 2020-02-20 23:11:46.915 edu.bms.util.XMLHandler [92] - file not found
+java.io.FileNotFoundException: /home/shahid/netbeans/accounts.xml (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:155) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:110) ~[?:?]
+	at edu.bms.util.XMLHandler.testReadOp(XMLHandler.java:51) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:130) [classes/:?]
+[ERROR] 2020-02-20 23:11:46.971 edu.bms.util.XMLHandler [124] - error while writing xml
+java.io.FileNotFoundException: /home/shahid/netbeans/accounts3.xml (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:292) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:124) ~[?:?]
+	at edu.bms.util.XMLHandler.testWriteOp(XMLHandler.java:120) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:131) [classes/:?]
+[ERROR] 2020-02-20 23:17:03.746 edu.bms.util.XMLHandler [92] - file not found
+java.io.FileNotFoundException: /home/desktop/shahid1Netbeans/accounts.xml (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:155) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:110) ~[?:?]
+	at edu.bms.util.XMLHandler.testReadOp(XMLHandler.java:51) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:130) [classes/:?]
+[ERROR] 2020-02-20 23:17:03.788 edu.bms.util.XMLHandler [124] - error while writing xml
+java.io.FileNotFoundException: /home/desktop/shahid1Netbeans/accounts.xml (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:292) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:124) ~[?:?]
+	at edu.bms.util.XMLHandler.testWriteOp(XMLHandler.java:120) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:131) [classes/:?]
+[INFO ] 2020-02-20 23:21:26.703 edu.bms.util.XMLHandler [62] - the total nodes are 1
+[INFO ] 2020-02-20 23:22:47.294 edu.bms.util.XMLHandler [62] - the total nodes are 0
+[INFO ] 2020-02-23 17:55:12.424 edu.bms.util.XMLHandler [62] - the total nodes are 0
+[INFO ] 2020-02-23 17:57:14.585 edu.bms.util.XMLHandler [62] - the total nodes are 0
+[INFO ] 2020-02-23 17:59:05.136 edu.bms.util.XMLHandler [62] - the total nodes are 0
+[INFO ] 2020-02-23 18:01:08.068 edu.bms.util.XMLHandler [62] - the total nodes are 0
+[INFO ] 2020-02-23 19:25:32.237 edu.jcourse.gui.NewAccountFrame [190] - Account Number: 22322123
+Account Holder: shahid
+Initial Account:ss0s32
+Phone Number:   03359500924
+Account Type:   Current Account
+[INFO ] 2020-02-23 19:32:36.644 edu.bms.util.XMLHandler [62] - the total nodes are 0
+[INFO ] 2020-02-23 19:35:39.438 edu.bms.util.XMLHandler [62] - the total nodes are 0
+[INFO ] 2020-02-23 19:36:09.204 edu.bms.util.XMLHandler [62] - the total nodes are 0
+[ERROR] 2020-02-23 19:38:58.935 edu.bms.util.XMLHandler [92] - file not found
+java.io.FileNotFoundException: /home/shahid/Desktop/shahid1Netbeans/shahid.xml (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:155) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:110) ~[?:?]
+	at edu.bms.util.XMLHandler.testReadOp(XMLHandler.java:51) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:130) [classes/:?]
+[INFO ] 2020-02-23 19:45:10.978 edu.bms.util.XMLHandler [62] - the total nodes are 0
+[INFO ] 2020-02-23 19:49:46.008 edu.bms.util.XMLHandler [57] - the total nodes are 0
+[INFO ] 2020-02-23 19:52:44.790 edu.bms.util.XMLHandler [55] - the total nodes are 0
+[INFO ] 2020-02-23 19:53:09.151 edu.bms.util.XMLHandler [55] - the total nodes are 0
+[INFO ] 2020-02-25 22:58:58.078 edu.bms.util.XMLHandler [55] - the total nodes are 0
+[INFO ] 2020-02-25 23:15:20.166 edu.bms.util.XMLHandler [55] - the total nodes are 0
+[INFO ] 2020-02-25 23:16:24.006 edu.bms.util.XMLHandler [55] - the total nodes are 0
+[INFO ] 2020-02-25 23:19:59.938 edu.bms.util.XMLHandler [55] - the total nodes are 0
+[INFO ] 2020-02-27 21:37:40.325 edu.bms.service.impl.AccountService [97] - querry string is/listOfAccounts/account[@number=111]
+[ERROR] 2020-02-27 21:37:40.379 edu.bms.service.impl.AccountService [100] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-02-27 21:39:31.349 edu.bms.util.XMLHandler [55] - the total nodes are 0
+[INFO ] 2020-02-27 21:39:56.887 edu.bms.gui.NewAccountFrame [212] - Account Number: 111
+Account Holder: shahid
+Initial Account:12
+Phone Number:   03339500924
+Account Type:   Current Account
+[INFO ] 2020-02-27 21:41:31.462 edu.bms.util.XMLHandler [55] - the total nodes are 0
+[INFO ] 2020-02-27 21:41:50.798 edu.bms.gui.NewAccountFrame [212] - Account Number: 12345
+Account Holder: shahab
+Initial Account:2
+Phone Number:   0333333333
+Account Type:   Current Account
+[INFO ] 2020-02-27 21:43:07.626 edu.bms.util.XMLHandler [55] - the total nodes are 0
+[INFO ] 2020-02-27 21:43:24.302 edu.bms.gui.NewAccountFrame [212] - Account Number: 12345
+Account Holder: shahab
+Initial Account:3
+Phone Number:   123456
+Account Type:   Current Account
+[INFO ] 2020-02-27 21:48:31.322 edu.bms.util.XMLHandler [55] - the total nodes are 0
+[INFO ] 2020-02-27 21:48:47.550 edu.bms.gui.NewAccountFrame [212] - Account Number: 1234
+Account Holder: shahid
+Initial Account:2
+Phone Number:   37772
+Account Type:   Current Account
+[ERROR] 2020-02-27 21:52:27.584 edu.bms.util.XMLHandler [85] - file not found
+java.io.FileNotFoundException: /home/shahid/Desktop/shahid1Netbeans/shahid.xml (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:155) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:110) ~[?:?]
+	at edu.bms.util.XMLHandler.testReadOp(XMLHandler.java:44) ~[classes/:?]
+	at edu.bms.gui.NewAccountFrame.<init>(NewAccountFrame.java:37) ~[classes/:?]
+	at edu.bms.gui.BankGui.btnNewAccountActionPerformed(BankGui.java:165) ~[classes/:?]
+	at edu.bms.gui.BankGui$1.actionPerformed(BankGui.java:65) ~[classes/:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967) ~[?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308) ~[?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405) ~[?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) ~[?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) ~[?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6636) ~[?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3342) ~[?:?]
+	at java.awt.Component.processEvent(Component.java:6401) ~[?:?]
+	at java.awt.Container.processEvent(Container.java:2263) ~[?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:5012) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2321) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4844) ~[?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918) ~[?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547) ~[?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2307) ~[?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2762) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4844) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:721) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:715) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:745) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:743) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+[INFO ] 2020-02-27 21:52:52.101 edu.bms.gui.NewAccountFrame [212] - Account Number: 1234567890
+Account Holder: asdfghjkl
+Initial Account:1
+Phone Number:   009876543
+Account Type:   Current Account
+[ERROR] 2020-02-27 21:54:59.839 edu.bms.util.XMLHandler [85] - file not found
+java.io.FileNotFoundException: /home/shahid/Desktop/shahid1Netbeans/shahid.xml (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:155) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:110) ~[?:?]
+	at edu.bms.util.XMLHandler.testReadOp(XMLHandler.java:44) ~[classes/:?]
+	at edu.bms.gui.NewAccountFrame.<init>(NewAccountFrame.java:37) ~[classes/:?]
+	at edu.bms.gui.BankGui.btnNewAccountActionPerformed(BankGui.java:165) ~[classes/:?]
+	at edu.bms.gui.BankGui$1.actionPerformed(BankGui.java:65) ~[classes/:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967) ~[?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308) ~[?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405) ~[?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) ~[?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) ~[?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6636) ~[?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3342) ~[?:?]
+	at java.awt.Component.processEvent(Component.java:6401) ~[?:?]
+	at java.awt.Container.processEvent(Container.java:2263) ~[?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:5012) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2321) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4844) ~[?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918) ~[?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547) ~[?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2307) ~[?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2762) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4844) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:721) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:715) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:745) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:743) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+[INFO ] 2020-02-27 21:56:41.436 edu.bms.util.XMLHandler [55] - the total nodes are 0
+[INFO ] 2020-02-27 22:07:41.164 edu.bms.gui.NewAccountFrame [222] - Account Number: 122222222
+Account Holder: shahid
+Initial Account:1
+Phone Number:   03338488282
+Account Type:   Current Account
+[INFO ] 2020-02-27 22:26:53.491 edu.bms.service.impl.AccountService [127] - querry string is/listOfAccounts/account[@number=12]
+[INFO ] 2020-02-28 15:58:02.457 edu.bms.service.impl.AccountService [127] - querry string is/listOfAccounts/account[@number=123]
+[INFO ] 2020-02-28 15:58:58.729 edu.bms.service.impl.AccountService [127] - querry string is/listOfAccounts/account[@number=12]
+[ERROR] 2020-02-29 00:47:05.869 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 00:47:11.311 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 00:48:46.547 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 00:49:53.299 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 00:49:53.679 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 00:49:53.879 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 00:49:54.067 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 00:49:54.231 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 00:49:54.392 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 00:49:54.571 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 00:49:54.782 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 00:49:54.974 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 00:49:55.194 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 00:50:15.594 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 12:22:27.137 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 12:25:00.437 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-02-29 12:28:48.781 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-03-11 22:49:49.913 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[INFO ] 2020-03-12 11:56:42.189 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:42.246 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:45.793 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:45.794 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:46.168 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:46.169 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:46.347 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:46.348 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:47.687 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:47.689 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:47.852 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:47.853 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:48.033 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:48.034 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:48.762 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:48.763 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:48.921 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:48.923 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:49.086 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:49.088 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:49.247 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:49.248 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:49.432 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:49.434 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:49.611 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:49.612 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:50.258 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:50.259 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:50.424 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:50.425 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:50.601 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:50.603 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:50.827 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:50.828 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:51.008 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:51.009 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:51.837 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:51.838 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:51.998 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:51.999 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 11:56:52.177 edu.bms.service.impl.AccountService [140] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 11:56:52.178 edu.bms.service.impl.AccountService [143] - java.lang.IndexOutOfBoundsException: Index: 0
+[ERROR] 2020-03-12 12:03:04.316 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-03-12 12:03:11.557 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-03-12 12:03:34.301 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-03-12 12:03:42.957 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-03-12 12:03:43.131 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-03-12 12:03:43.309 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-03-12 12:03:43.461 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-03-12 12:03:43.633 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-03-12 12:03:43.828 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-03-12 12:03:44.023 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[ERROR] 2020-03-12 12:03:44.204 edu.bms.gui.NewAccountFrame [234] - somethig went wrong
+[INFO ] 2020-03-12 13:22:01.536 edu.bms.service.impl.AccountService [141] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 13:22:01.601 edu.bms.service.impl.AccountService [144] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 13:22:06.112 edu.bms.service.impl.AccountService [141] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 13:22:06.114 edu.bms.service.impl.AccountService [144] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 13:22:06.477 edu.bms.service.impl.AccountService [141] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 13:22:06.479 edu.bms.service.impl.AccountService [144] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 13:22:06.850 edu.bms.service.impl.AccountService [141] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 13:22:06.851 edu.bms.service.impl.AccountService [144] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 13:22:07.036 edu.bms.service.impl.AccountService [141] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 13:22:07.038 edu.bms.service.impl.AccountService [144] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 13:22:07.206 edu.bms.service.impl.AccountService [141] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 13:22:07.207 edu.bms.service.impl.AccountService [144] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 13:22:07.375 edu.bms.service.impl.AccountService [141] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 13:22:07.377 edu.bms.service.impl.AccountService [144] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-12 13:22:07.556 edu.bms.service.impl.AccountService [141] - querry string is/listOfAccounts/account[@number=122222222]
+[ERROR] 2020-03-12 13:22:07.557 edu.bms.service.impl.AccountService [144] - java.lang.IndexOutOfBoundsException: Index: 0
+[INFO ] 2020-03-14 19:09:32.585 edu.bms.service.impl.AccountService [145] - querry string is/listOfAccounts/account[@number=111222]
+[INFO ] 2020-03-15 16:08:15.769 edu.bms.service.impl.AccountService [145] - querry string is/listOfAccounts/account[@number=111222]
+[INFO ] 2020-03-15 21:11:39.049 edu.bms.service.impl.AccountService [147] - querry string is/listOfAccounts/account[@number=111222]
+[ERROR] 2020-03-20 11:54:05.364 edu.bms.gui.NewAccountFrame [241] - somethig went wrongedu.bms.ex.DuplicateEntryException: Account number is already taken.Use another
+[ERROR] 2020-05-20 22:42:23.372 edu.bms.util.XMLHandler [85] - file not found
+java.io.FileNotFoundException: \home\shahid\Desktop\shahid1Netbeans\shahid.xml (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:155) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:110) ~[?:?]
+	at edu.bms.util.XMLHandler.testReadOp(XMLHandler.java:44) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:124) [classes/:?]
+[ERROR] 2020-05-20 22:42:23.472 edu.bms.util.XMLHandler [117] - error while writing xml
+java.io.FileNotFoundException: \home\shahid\Desktop\shahid1Netbeans\shahid.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:292) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:124) ~[?:?]
+	at edu.bms.util.XMLHandler.testWriteOp(XMLHandler.java:113) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:125) [classes/:?]
+[ERROR] 2020-05-28 20:57:24.515 edu.bms.service.impl.AccountService [80] - error occured
+java.io.FileNotFoundException: \home\shahid\Desktop\shahid1Netbeans\Khan.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:292) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:185) ~[?:?]
+	at edu.bms.service.impl.AccountService.createXMLIfNotExists(AccountService.java:196) ~[classes/:?]
+	at edu.bms.service.impl.AccountService.openAccount(AccountService.java:56) ~[classes/:?]
+	at edu.bms.gui.NewAccountFrame.saveButtonActionPerformed(NewAccountFrame.java:230) ~[classes/:?]
+	at edu.bms.gui.NewAccountFrame$4.actionPerformed(NewAccountFrame.java:111) ~[classes/:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967) ~[?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308) ~[?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405) ~[?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) ~[?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) ~[?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6636) ~[?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3342) ~[?:?]
+	at java.awt.Component.processEvent(Component.java:6401) ~[?:?]
+	at java.awt.Container.processEvent(Container.java:2263) ~[?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:5012) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2321) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4844) ~[?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918) ~[?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547) ~[?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2307) ~[?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2762) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4844) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:721) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:715) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:745) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:743) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+[ERROR] 2020-05-28 20:57:24.625 edu.bms.gui.NewAccountFrame [240] - somethig went wrongedu.bms.ex.SystemNotAvailableException: Database appeared to be invalid 
+[ERROR] 2020-05-28 21:30:57.997 edu.bms.service.impl.AccountService [81] - error occured
+java.io.FileNotFoundException: \University Work\Java Work Space\shahid.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:292) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:185) ~[?:?]
+	at edu.bms.service.impl.AccountService.createXMLIfNotExists(AccountService.java:197) ~[classes/:?]
+	at edu.bms.service.impl.AccountService.openAccount(AccountService.java:57) ~[classes/:?]
+	at edu.bms.gui.NewAccountFrame.saveButtonActionPerformed(NewAccountFrame.java:230) ~[classes/:?]
+	at edu.bms.gui.NewAccountFrame$4.actionPerformed(NewAccountFrame.java:111) ~[classes/:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967) ~[?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308) ~[?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405) ~[?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) ~[?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) ~[?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6636) ~[?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3342) ~[?:?]
+	at java.awt.Component.processEvent(Component.java:6401) ~[?:?]
+	at java.awt.Container.processEvent(Container.java:2263) ~[?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:5012) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2321) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4844) ~[?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918) ~[?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547) ~[?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2307) ~[?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2762) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4844) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:721) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:715) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:745) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:743) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+[ERROR] 2020-05-28 21:30:58.012 edu.bms.gui.NewAccountFrame [240] - somethig went wrongedu.bms.ex.SystemNotAvailableException: Database appeared to be invalid 
+[ERROR] 2020-05-28 21:32:26.819 edu.bms.service.impl.AccountService [81] - error occured
+java.io.FileNotFoundException: \University Work\Java Work Space\shahid.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:292) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:185) ~[?:?]
+	at edu.bms.service.impl.AccountService.createXMLIfNotExists(AccountService.java:197) ~[classes/:?]
+	at edu.bms.service.impl.AccountService.openAccount(AccountService.java:57) ~[classes/:?]
+	at edu.bms.gui.NewAccountFrame.saveButtonActionPerformed(NewAccountFrame.java:230) ~[classes/:?]
+	at edu.bms.gui.NewAccountFrame$4.actionPerformed(NewAccountFrame.java:111) ~[classes/:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967) ~[?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308) ~[?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405) ~[?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) ~[?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) ~[?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6636) ~[?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3342) ~[?:?]
+	at java.awt.Component.processEvent(Component.java:6401) ~[?:?]
+	at java.awt.Container.processEvent(Container.java:2263) ~[?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:5012) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2321) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4844) ~[?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918) ~[?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547) ~[?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2307) ~[?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2762) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4844) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:721) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:715) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:745) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:743) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+[ERROR] 2020-05-28 21:32:26.820 edu.bms.gui.NewAccountFrame [240] - somethig went wrongedu.bms.ex.SystemNotAvailableException: Database appeared to be invalid 
+[ERROR] 2020-05-28 21:32:27.697 edu.bms.service.impl.AccountService [81] - error occured
+java.io.FileNotFoundException: \University Work\Java Work Space\shahid.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:292) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:185) ~[?:?]
+	at edu.bms.service.impl.AccountService.createXMLIfNotExists(AccountService.java:197) ~[classes/:?]
+	at edu.bms.service.impl.AccountService.openAccount(AccountService.java:57) ~[classes/:?]
+	at edu.bms.gui.NewAccountFrame.saveButtonActionPerformed(NewAccountFrame.java:230) ~[classes/:?]
+	at edu.bms.gui.NewAccountFrame$4.actionPerformed(NewAccountFrame.java:111) ~[classes/:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967) ~[?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308) ~[?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405) ~[?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) ~[?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) ~[?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6636) ~[?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3342) ~[?:?]
+	at java.awt.Component.processEvent(Component.java:6401) ~[?:?]
+	at java.awt.Container.processEvent(Container.java:2263) ~[?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:5012) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2321) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4844) ~[?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918) ~[?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547) ~[?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2307) ~[?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2762) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4844) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:721) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:715) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:745) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:743) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+[ERROR] 2020-05-28 21:32:27.697 edu.bms.gui.NewAccountFrame [240] - somethig went wrongedu.bms.ex.SystemNotAvailableException: Database appeared to be invalid 
+[ERROR] 2020-05-28 21:35:52.125 edu.bms.service.impl.AccountService [82] - error occured
+org.dom4j.DocumentException: Error on line 1 of document file:///H:/University%20Work/Java%20Work%20Space : Premature end of file. Nested exception: Premature end of file.
+	at org.dom4j.io.SAXReader.read(SAXReader.java:482) ~[dom4j-1.6.1.jar:1.6.1]
+	at org.dom4j.io.SAXReader.read(SAXReader.java:321) ~[dom4j-1.6.1.jar:1.6.1]
+	at edu.bms.service.impl.AccountService.readXMLDocument(AccountService.java:215) ~[classes/:?]
+	at edu.bms.service.impl.AccountService.openAccount(AccountService.java:60) ~[classes/:?]
+	at edu.bms.gui.NewAccountFrame.saveButtonActionPerformed(NewAccountFrame.java:230) ~[classes/:?]
+	at edu.bms.gui.NewAccountFrame$4.actionPerformed(NewAccountFrame.java:111) ~[classes/:?]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967) ~[?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308) ~[?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405) ~[?:?]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262) ~[?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279) ~[?:?]
+	at java.awt.Component.processMouseEvent(Component.java:6636) ~[?:?]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3342) ~[?:?]
+	at java.awt.Component.processEvent(Component.java:6401) ~[?:?]
+	at java.awt.Container.processEvent(Container.java:2263) ~[?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:5012) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2321) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4844) ~[?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918) ~[?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547) ~[?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2307) ~[?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2762) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4844) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:721) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:715) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:745) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:743) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) [?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+[ERROR] 2020-05-28 21:35:52.140 edu.bms.gui.NewAccountFrame [240] - somethig went wrongedu.bms.ex.SystemNotAvailableException: Database appeared to be invalid 
+[ERROR] 2020-05-28 21:41:39.225 edu.bms.gui.NewAccountFrame [240] - somethig went wrongedu.bms.ex.DuplicateEntryException: Account number is already taken.Use another
+[ERROR] 2020-05-28 21:59:40.451 edu.bms.gui.NewAccountFrame [240] - somethig went wrongedu.bms.ex.DuplicateEntryException: Account number is already taken.Use another
+[ERROR] 2020-06-01 14:09:50.501 edu.bms.util.XMLHandler [85] - file not found
+java.io.FileNotFoundException: \home\shahid\Desktop\shahid1Netbeans\shahid.xml (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:155) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:110) ~[?:?]
+	at edu.bms.util.XMLHandler.testReadOp(XMLHandler.java:44) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:124) [classes/:?]
+[ERROR] 2020-06-01 14:09:50.648 edu.bms.util.XMLHandler [117] - error while writing xml
+java.io.FileNotFoundException: \home\shahid\Desktop\shahid1Netbeans\shahid.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:292) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:124) ~[?:?]
+	at edu.bms.util.XMLHandler.testWriteOp(XMLHandler.java:113) [classes/:?]
+	at edu.bms.util.XMLHandler.main(XMLHandler.java:125) [classes/:?]
+[INFO ] 2020-06-01 14:12:43.661 edu.bms.util.XMLHandler [55] - the total nodes are 0
+[ERROR] 2020-06-01 16:19:07.250 edu.bms.gui.NewAccountFrame [242] - somethig went wrongedu.bms.ex.DuplicateEntryException: Account number is already taken.Use another
